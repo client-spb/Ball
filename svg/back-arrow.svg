@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="url(#backArrowGrad)" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
   <defs>
     <linearGradient id="backArrowGrad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#ffd54f"/>
-      <stop offset="1" stop-color="#ffffff"/>
+      <stop offset="0" stop-color="#8ab4ff"/>
+      <stop offset="1" stop-color="#2a4a9a"/>
     </linearGradient>
   </defs>
-  <path d="M20 12H4.5"/>
-  <path d="M11 5.5 4.5 12l6.5 6.5"/>
+  <path d="M20 12H4.5" stroke="url(#backArrowGrad)"/>
+  <path d="M11 5.5 4.5 12l6.5 6.5" stroke="url(#backArrowGrad)"/>
 </svg>
