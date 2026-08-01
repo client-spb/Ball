@@ -60,6 +60,7 @@ html, body {
   width:17px; height:17px; flex-shrink:0;
   transition:transform .18s ease;
   filter:drop-shadow(0 1px 3px rgba(0,0,0,.45));
+  display:block;
 }
 .back-btn:hover .back-arrow { transform:translateX(-3px); }
 .back-btn:active .back-arrow { transform:translateX(-1px); }
